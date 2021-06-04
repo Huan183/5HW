@@ -7,10 +7,12 @@
 // </自動產生的>
 //------------------------------------------------------------------------------
 
-namespace _5HW {
+namespace _5HW
+{
 
 
-    public partial class _5HW {
+    public partial class _5HW
+    {
 
         /// <summary>
         /// form1 控制項。
